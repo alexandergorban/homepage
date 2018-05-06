@@ -12,3 +12,8 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.resume-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
