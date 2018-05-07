@@ -81,3 +81,26 @@
   margin-bottom: -35px;
   margin-left: 7px;
 }
+
+.favorite-technologies {
+  margin-top: 15px;
+}
+
+.favorite-technologies .chip {
+  height: 55px;
+  border-radius: 0;
+  margin-right: 12px;
+  margin-bottom: 15px;
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.favorite-technologies .chip img {
+  border-radius: 8px;
+  height: 55px;
+  width: 55px;
+}
+
+.favorite-technologies .chip h5 {
+  font-weight: bold;
+}
