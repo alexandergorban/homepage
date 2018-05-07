@@ -41,18 +41,16 @@
   border: solid 3px #A4E1D6;
 }
 
-.card-section .left-align{
-  /*font-weight: bold;*/
-  /*color: #cf3950;*/
+.card-panel-custom .border-bottom {
+  border-bottom: solid 2px #e1e1e1;
 }
 
 .card-section {
   font-weight: bold;
 }
 
-.card-section .right-align{
-  /*font-style: italic;*/
-  /*color: #cf3950;*/
+.card-section.border-bottom-head{
+  border-bottom: solid 2px #A4E1D6;
 }
 
 .card-text {
