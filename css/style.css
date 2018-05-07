@@ -17,7 +17,7 @@
   padding: 0 15px;
 }
 .icon-block .material-icons {
-	font-size: inherit;
+  font-size: inherit;
 }
 
 .section .row .card-resume {
@@ -87,7 +87,7 @@
 }
 
 .favorite-technologies .chip {
-  height: 55px;
+  height: 53px;
   border-radius: 0;
   margin-right: 12px;
   margin-bottom: 15px;
@@ -97,8 +97,8 @@
 
 .favorite-technologies .chip img {
   border-radius: 8px;
-  height: 55px;
-  width: 55px;
+  height: 53px;
+  width: 53px;
 }
 
 .favorite-technologies .chip h5 {
