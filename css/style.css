@@ -6,6 +6,13 @@
  * Made By MaterializeCSS.com
  */
 
+.main-container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: solid 1rem #28D8B2;
+  padding: 1.5rem;
+}
+
 .icon-block {
   padding: 0 15px;
 }
@@ -13,7 +20,50 @@
 	font-size: inherit;
 }
 
+.section .row .card-resume {
+  margin-top: 25px;
+  padding: 5px 0 20px 0;
+  border-top: solid 3px #A4E1D6;
+  border-bottom: solid 3px #A4E1D6;
+}
+
 .resume-title {
   text-transform: uppercase;
   font-weight: bold;
+}
+
+.section .row .card-header {
+  padding-left: 0;
+  color: #9ad2c7;
+}
+
+.card-panel-custom {
+  border: solid 3px #A4E1D6;
+}
+
+.card-section .left-align{
+  /*font-weight: bold;*/
+  /*color: #cf3950;*/
+}
+
+.card-section {
+  font-weight: bold;
+}
+
+.card-section .right-align{
+  /*font-style: italic;*/
+  /*color: #cf3950;*/
+}
+
+.card-text {
+  color: #757575;
+}
+
+.card-text ul {
+  list-style: disc;
+  margin-left: 18px;
+}
+
+.card-text ul li {
+  list-style: disc;
 }
