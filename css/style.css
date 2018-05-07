@@ -65,3 +65,7 @@
 .card-text ul li {
   list-style: disc;
 }
+
+.workbench, .mysafe {
+  color: #000000;
+}
